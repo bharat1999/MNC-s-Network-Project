@@ -1,4 +1,4 @@
 # MNC-s-Network-Project
 This project is totally dedicated to the Network Engineer for new and smart learning of the Network Structure. In this concept it is possible for the networker to check the incoming &amp; the outgoing traffic and to maintain some security concepts as well. In this logic we use the Multi-Layer Switch to act as a DHCP Server for every Department in Network Bulls Organization. The Multi-Layer Switch along with providing IP Addresses to all the Hosts in Network Bulls also acts as a Back-Bone to the whole Network Scenario. Multi-Layer Switch makes it possible to route and monitor all the Traffic Flow in an MNC –  It provides IP Addresses to the hosts through DHCP Process on time lease
 Every Router in each & every Department has been provided with the dedicated PC to be controlled by the Local Administrator of the Department Manually along with the fact that the Network of Network Bulls is also centrally Manage through a Multi-Layer Switch 
-cisco is leading new its new certification from feb 2020 which would offer us to learn more about network security and secure our current systems
+
